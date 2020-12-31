@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "puerts_vue",
+			"path": "."
+		},
+		{
+			"path": "Js"
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
